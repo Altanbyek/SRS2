@@ -17,3 +17,4 @@ root.left.right = Node(5)
 
 print("\n terenen izdetilgen graph:")
 printInorder(root)
+#well done
